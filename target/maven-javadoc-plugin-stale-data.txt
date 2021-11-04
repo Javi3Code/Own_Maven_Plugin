@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/JAVIER/Desktop/EClipse ACTIV/WORKSPACEs/JCODE_YT_LIBS/jeycode-plugin/target/jc-copy-0.1.jar;C:/Users/JAVIER/.m2/repository/org/apache/maven/maven-plugin-api/3.6.0/maven-plugin-api-3.6.0.jar;C:/Users/JAVIER/.m2/repository/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.jar;C:/Users/JAVIER/.m2/repository/org/apache/maven/maven-artifact/3.6.0/maven-artifact-3.6.0.jar;C:/Users/JAVIER/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar;C:/Users/JAVIER/.m2/repository/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.3/org.eclipse.sisu.plexus-0.3.3.jar;C:/Users/JAVIER/.m2/repository/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar;C:/Users/JAVIER/.m2/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar;C:/Users/JAVIER/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar;C:/Users/JAVIER/.m2/repository/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.3/org.eclipse.sisu.inject-0.3.3.jar;C:/Users/JAVIER/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar;C:/Users/JAVIER/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar;C:/Users/JAVIER/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.jar;C:/Users/JAVIER/.m2/repository/org/apache/maven/plugin-tools/maven-plugin-annotations/3.6.0/maven-plugin-annotations-3.6.0.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/JAVIER/Desktop/EClipse ACTIV/WORKSPACEs/JCODE_YT_LIBS/jeycode-plugin/src/main/java;C:/Users/JAVIER/Desktop/EClipse ACTIV/WORKSPACEs/JCODE_YT_LIBS/jeycode-plugin/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021 <a href="https://www.github.com/Javi3Code">Javier Pérez Alonso akka Jey Code</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/JAVIER/Desktop/EClipse ACTIV/WORKSPACEs/JCODE_YT_LIBS/jeycode-plugin/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mojo-picón 0.1 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/JAVIER/Desktop/EClipse ACTIV/WORKSPACEs/JCODE_YT_LIBS/jeycode-plugin/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mojo-picón 0.1 API'
+org.jvcode.mvnplugin
+'C:/Users/JAVIER/Desktop/EClipse ACTIV/WORKSPACEs/JCODE_YT_LIBS/jeycode-plugin/src/main/java/org/jvcode/mvnplugin/CopyFilePlugin.java'
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\src\main\java = 1635583572132
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\generated-sources\annotations = 1635965038267
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\allclasses-index.html = 1635965107958
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\allclasses.html = 1635965108044
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\allpackages-index.html = 1635965107965
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\constant-values.html = 1635965107801
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\deprecated-list.html = 1635965108040
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\element-list = 1635965107712
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\help-doc.html = 1635965108073
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\index-all.html = 1635965107937
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\index.html = 1635965108052
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\member-search-index.js = 1635965107915
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\member-search-index.zip = 1635965107925
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\overview-tree.html = 1635965107864
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\package-search-index.js = 1635965107899
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\package-search-index.zip = 1635965107907
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\script.js = 1635965108098
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\search.js = 1635965108110
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\stylesheet.css = 1635965108092
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\type-search-index.js = 1635965107910
+C:\Users\JAVIER\Desktop\EClipse ACTIV\WORKSPACEs\JCODE_YT_LIBS\jeycode-plugin\target\site\apidocs\type-search-index.zip = 1635965107913

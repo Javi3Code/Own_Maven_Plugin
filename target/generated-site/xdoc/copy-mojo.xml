@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://maven.apache.org/XDOC/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+  <properties>
+    <title>jc:copy</title>
+  </properties>
+  <body>
+    <section name="jc:copy">
+      <p><strong>Full name</strong>:</p>
+      <p>jc.job:jc-copy:0.1:copy</p>
+      <p><strong>Description</strong>:</p>
+      <div><h1 style="font-weight: bold">Copy File Plugin</h1>
+<p>Plugin que permite la copia de n ficheros en n
+directorios.<br />
+Se utilizan threads para acelerar la ejecución, el número de
+threads por defecto es uno, si se requiere el uso de más threads
+existe la posibilidad de pasar ese dato por parámetro como property
+en el POM.xml.<br />
+<br />
+<em><b>*La copia de los ficheros se realiza en cada uno de los
+directorios.</b></em></p>
+<h2>Listado de properties</h2>
+<p><em><b>*Todos los path se separan por punto y coma
+[;]</b></em></p>
+<div>
+<ul>
+<li>copyfile.dir.targets [alias=targets, readonly, required]</li>
+<li>copyfile.file.sources [alias=sources, readonly, required]</li>
+<li>copyfile.threads [alias = threads, default = 1, readonly]</li>
+</ul>
+</div></div>
+      <p><strong>Attributes</strong>:</p>
+      <subsection name="Parameters">
+        <p>(no parameters)</p>
+      </subsection>
+    </section>
+  </body>
+</document>
